@@ -12,4 +12,5 @@ The idea originated from a reddit comment by the user u/DirkaSnivels :
 - “It’s clearing up”
 - "Pretty damn hot"
 - "Hmmm..."
+- "Damn, a storm is coming in." [source](https://gaming.stackexchange.com/questions/299915/why-does-geralt-hate-storms)
 - TODO FIND MORE
