@@ -86,7 +86,6 @@ lint/tmp/
 
 
 # ADDED BY ANDROID-STUDIO
-*.iml
 .gradle
 /local.properties
 /.idea/caches
@@ -98,6 +97,7 @@ lint/tmp/
 .DS_Store
 /build
 /captures
-.externalNativeBuild
 .cxx
-local.properties
+
+# ADDED BY Niels Lachat
+/.idea/misc.xml
