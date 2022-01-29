@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="wc_default">Hmmm…</string>
+    <string-array name="weather_commentaries">
+        <item name="wc_winds_howling">Wind\'s howling.</item>
+        <item name="wc_looks_like_rain">Looks like rain.</item>
+        <item name="wc_its_clearing_up">It\'s clearing up</item>
+        <item name="wc_damn_storm_coming">Damn, a storm is coming in.</item>
+    </string-array>
+</resources>
